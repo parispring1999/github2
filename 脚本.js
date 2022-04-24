@@ -1,0 +1,1 @@
+document.write("<p>可可爱爱</p>");
